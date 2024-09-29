@@ -74,19 +74,6 @@ $ pnpm build:linux
 
 I'd love to hear your thoughts and ideas. If you have feedback, run into any issues, or want to suggest improvements, feel free to open an issue or submit a pull request. iAsterisk grows and evolves with your input!
 
-## 📚 License
-
-![GitHub license](https://img.shields.io/github/license/yourusername/iasterisk)
-This project is licensed under [LICENSE NAME].
-
 ## 📬 Get in Touch
 
 Got questions or suggestions? Reach out to me directly on [LinkedIn](https://www.linkedin.com/in/alexandre-orliaguet?originalSubdomain=fr).
-
-## 🏷️ Tags
-
-`spellchecker` `text-correction` `AI-powered` `Electron` `Svelte` `TailwindCSS` `OpenAI` `Anthropic` `Ollama` `build-in-public`
-
----
-
-Feel free to replace `yourusername` with the actual GitHub username to generate the badges. This README now includes badges for the last commit, open issues, license, platform support, and technologies used, giving it a more polished look.

@@ -60,7 +60,7 @@
 </script>
 
 <div class="flex items-center justify-center min-h-screen bg-gray-100">
-  <Card class="w-full max-w-md bg-white">
+  <Card class="w-[700px] max-w-md bg-white">
     <CardHeader>
       <CardTitle>{m.spellcheck_ai_onboarding()}</CardTitle>
       <CardDescription>{m.setup_ai_spellcheck()}</CardDescription>
@@ -136,7 +136,7 @@
       </div>
       <div class="flex items-center space-x-2">
         <span class="text-sm text-gray-500">
-          {m.step_of_total(step, 3)}
+          {m.step_of_total({ 0: step, 1: 3 })}
         </span>
         {#if step < 3}
           <Button on:click={handleNext} disabled={isNextDisabled}>{m.next()}</Button>

@@ -1,7 +1,3 @@
-You're right! Badges can enhance the visual appeal and provide useful information at a glance. Here’s an updated README that includes some commonly used badges:
-
----
-
 # iAsterisk - The Ultra-Discreet Spellchecker powered by AI
 
 ![Built with](https://img.shields.io/badge/built%20with-Electron%20%7C%20Svelte%20%7C%20TailwindCSS-blueviolet)
